@@ -10,6 +10,7 @@
 - **Frameworks**: React
 - Web Development, Machine Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ani02b&show_icons=true&locale=en&layout=compact" alt="anindya" /></p>
 ## 🏆 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ani02b&show_icons=true&hide=issues&count_private=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ani02b&show_icons=true&locale=en&layout=compact" alt="anindya" /></p>
