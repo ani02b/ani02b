@@ -3,7 +3,7 @@
 - I’m interested in Web Development and Machine Learning
 - I’m currently learning App Development
 ## 📫 How to reach me
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anindyabag" height="30" width="40" />[LinkedIn](https://www.linkedin.com/in/anindya-bag-700048109)
+- [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anindyabag" height="30" width="40" />](https://www.linkedin.com/in/anindya-bag-700048109)
 - [Instagram](https://www.instagram.com/the_known_a.bag?igshid=MzNlNGNkZWQ4Mg==)
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript, Java, C/C++, SQL
