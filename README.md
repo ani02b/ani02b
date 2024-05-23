@@ -1,5 +1,5 @@
 [<img src="https://komarev.com/ghpvc/?username=ani02b&label=Profile%20views&color=0e75b6&style=flat" alt="ani02b" />](https://github.com/ani02b)
-<p align="center"># 👋 Hi there, I'm Anindya Bag</p>
+<align="center"># 👋 Hi there, I'm Anindya Bag
 ## 🚀 About Me
 - I’m interested in Web Development and Machine Learning
 - I’m currently learning App Development
