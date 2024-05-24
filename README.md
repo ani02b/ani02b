@@ -6,7 +6,7 @@
 ## 📫 How to reach me
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anindyabag" height="30" width="40" />](https://www.linkedin.com/in/anindya-bag-700048109)
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_known_a.bag" height="30" width="40" />](https://www.instagram.com/the_known_a.bag?igshid=MzNlNGNkZWQ4Mg==)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_known_a.bag" height="30" width="40" />](https://leetcode.com/u/anindyabag02/)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="the_known_a.bag" height="30" width="40" />](https://leetcode.com/u/anindyabag02/)
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript, Java, C/C++, SQL
 - **Frameworks**: React
